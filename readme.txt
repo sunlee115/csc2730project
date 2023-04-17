@@ -1,0 +1,1 @@
+To run the code, simply run Final_Project.ipynb in Google Colab
